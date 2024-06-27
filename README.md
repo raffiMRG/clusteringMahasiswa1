@@ -1,6 +1,6 @@
 <h2>📃 Clusterign Data Mahasiswa 📃</h2>
 <p>Melakukan clustering data mahasiswa dengan nilai UAS dan UTS debagai dataset, sehingga didapatkan grade nilai mahasiswa</p>
-struktur dataset 
+<h3>struktur dataset</h3> 
 <table>
   <tr>
     <th>Mahasiswa</th>
@@ -13,3 +13,5 @@ struktur dataset
     <td>....</td>
   </tr>
 </table>
+<h3>Documentation</h3>
+<a href="Doc/data mining 2.pptx">Power Point Documentation</a>
